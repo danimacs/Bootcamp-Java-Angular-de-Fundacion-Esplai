@@ -1,4 +1,4 @@
-# Bootcamp Java+Angular de Fundación Esplai
+# Bootcamp Java+Angular de Fundación Esplai | Curso no finalizado
 ## Descripción
 Basado en el "Learn by doing", el trabajo por proyectos y las metodologías ágiles, fundamentado en una sólida base teórica al inicio de cada bloque.
 
@@ -54,9 +54,11 @@ Al finalizar el curso, los participantes deberán ser capaces de programar aplic
 
 - <a href="https://gitlab.com/danielmac03/t20-maven">Master Mind - Ejercicio 12</a> 👥
 
+- <a href="https://github.com/danielmac03-curso/S19-JUNIT">JUnit Calculadora Estándar</a>
+
 - <a href="https://github.com/danielmac03-curso/TCS20-Junit-Geometr-a">JUnit Geometría</a>
 
-- <a href="https://github.com/danielmac03-curso/S19-JUNIT">JUnit Calculadora Estándar</a>
+- <a href="https://gitlab.com/arnau.colome.estivill/ud21-calculadora.git">JUNIT</a> 👥
 
 - Patrón MVC
     - <a href="https://github.com/danielmac03-curso/T22-Patron-MVC">Ejercicio 1</a>
@@ -72,7 +74,3 @@ Al finalizar el curso, los participantes deberán ser capaces de programar aplic
 Los trabajos en grupo están marcados con (👥) y se han realizado con <a href="https://www.linkedin.com/in/arnauc/">Arnau Colomé</a> y <a href="https://www.linkedin.com/in/alba-fischer-carles-39897b1b3/">Alba Fischer</a>.
 
 A excepción del ejercicio Java Exceptions - Ejercicio 5 se ha realizado con <a href="https://www.linkedin.com/in/arnauc/">Arnau Colomé</a> y <a href="https://www.linkedin.com/in/juan-jos%C3%A9-carretero-garrido-aa05b81b4/">Juan José Carretero</a>.
-
-****
-
-### Curso no finalizado
