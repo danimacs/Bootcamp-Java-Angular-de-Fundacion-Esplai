@@ -1,4 +1,4 @@
-# Bootcamp Java+Angular de Fundación Esplai | Curso no finalizado
+# Bootcamp Java+Angular de Fundación Esplai | Curso finalizado
 ## Descripción
 Basado en el "Learn by doing", el trabajo por proyectos y las metodologías ágiles, fundamentado en una sólida base teórica al inicio de cada bloque.
 
@@ -41,7 +41,7 @@ Al finalizar el curso, los participantes deberán ser capaces de programar aplic
 - <a href="resources/Diagramas_ER.pdf">Diagramas ER</a> 👥
 - <a href="resources/Modelo_Relacional.pdf">Modelo Relacional</a> 👥
 - <a href="resources/DDL">DDL</a> 👥
-- <a href="resources/DML (I)">DML (I)</a> 👥
+- <a href="resources/DML (I)">DML (I)</a>
 - <a href="resources/DML (II).pdf">DML (II)</a> 👥
 
 ### Desarrollo Backend
@@ -66,7 +66,27 @@ Al finalizar el curso, los participantes deberán ser capaces de programar aplic
 
 - <a href="https://github.com/danielmac03-curso/T23-SPRING-Basics">SPRING Basics</a>
 
-### <a href="https://gitlab.com/danielmac03/ourhome">Proyecto Final</a>
+- <a href="https://github.com/danielmac03-curso/T24-SPRING-REST">SPRING REST</a>
+
+- <a href="https://github.com/danielmac03-curso/T25-SPRING-REST-ER">SPRING REST ER</a>
+
+- <a href="https://github.com/danielmac03-curso/T26-SPRING-MySQL">SPRING REST MySQL(n/n)</a>
+
+### Desarrollo Frontend
+
+- <a href="https://github.com/danielmac03-curso/T27-HTML-CSS">Introducción a HTML/CSS</a>
+
+- <a href="https://github.com/danielmac03-curso/T27-HTML-CSS">Tablas DIV</a> 👥
+
+- <a href="https://github.com/danielmac03-curso/T28-JavaScript">JavaScript</a> 👥
+
+- <a href="https://github.com/danielmac03-curso/T29-JavaScript-II-">JavaScript (II)</a> 👥 
+
+- <a href="https://github.com/danielmac03-curso/T30---JQuery">JQuery</a>
+
+- <a href="https://github.com/danielmac03-curso/T31-BOOTSTRAP">BOOTSTRAP</a> 👥
+
+- <a href="https://github.com/danielmac03-curso/T32-AJAX">Frontal AJAX</a> 👥
 
 ***
 
